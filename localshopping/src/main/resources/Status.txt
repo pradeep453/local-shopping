@@ -1,0 +1,7 @@
+PART 00 - 02 COMPLETED ON 21 OCT 2019.
+PART 00 - 03 COMPLETED ON 21 OCT 2019.
+PART 01 - GitHub Online Shopping Project COMPLETED ON 22 OCT 2019.
+Part 02 - 01 - Solving Version Mismatch Errors of Java Project Facet in Eclipse COMPLETED ON 25 OCT 2019 BUT 23 OCT NEEDED.
+Part 02 - 02 - Adding Spring Dependency Configuring FrontController  COMPLETED ON 25 OCT 2019 BUT 24 OCT NEEDED.
+Part 02 - 03 Configuring Spring Bean Configuration File COMPLETED ON 29 OCT 2019 BUT 25 OCT NEEDED.
+Part 02 - 04 - Understanding @RequestParam and @PathVariable annotations  COMPLETED ON 29 OCT 2019 BUT 26 OCT NEEDED.

@@ -1,6 +1,6 @@
 Part 00 - 01 - Project Intro  COMPLETED ON 21 OCT 2019.
-PART 00 - 02 COMPLETED ON 21 OCT 2019.
-PART 00 - 03 COMPLETED ON 21 OCT 2019.
+Part 00 - 02 - Project Entire Code With Execution COMPLETED ON 21 OCT 2019.
+Part 00 - 03 - Solution to common problems NullPointerException ZipException Invalid LOC Header COMPLETED ON 21 OCT 2019.
 PART 01 - GitHub Online Shopping Project COMPLETED ON 22 OCT 2019.
 Part 02 - 01 - Solving Version Mismatch Errors of Java Project Facet in Eclipse COMPLETED ON 25 OCT 2019 BUT 23 OCT NEEDED.
 Part 02 - 02 - Adding Spring Dependency Configuring FrontController  COMPLETED ON 25 OCT 2019 BUT 24 OCT NEEDED.
@@ -9,3 +9,6 @@ Part 02 - 04 - Understanding @RequestParam and @PathVariable annotations  COMPLE
 Part 02 - 05 - Loading Static Resources COMPLETED ON 30 OCT 2019 BUT 27 OCT NEEDED.
 Part 02 - 06 - Creating Master Page COMPLETED ON 30 OCT 2019 BUT 28 OCT NEEDED.
 Part 02 - 07 - Active Menu Problem COMPLETED ON 31 OCT 2019 BUT 29 OCT NEEDED.
+Part 02 - 08 - Footer Bottom Plus Change Theme COMPLETED ON 01 NOV 2019 BUT 30 OCT NEEDED.
+Part 03 - 01 - Creating DTO and DAO classes COMPLETED ON 01 NOV 2019 BUT 31 OCT NEEDED.
+Part 03 - 02 - Linking Backend Project with UI COMPLETED ON 01 NOV 2019.

@@ -24,6 +24,8 @@
 <title>Local Shopping -${title}</title>
 <script>
 	window.menu = '${title}';
+	
+	window.contextRoot = '${contextRoot}';
 </script>
 <!-- Bootstrap core CSS -->
 <link href="${css}/bootstrap.min.css" rel="stylesheet">
@@ -31,6 +33,9 @@
 <!-- Bootstrap cerulean theme CSS -->
 <link href="${css}/bootstrap.cerulean.theme.css" rel="stylesheet">
 
+
+<!-- Bootstrap DataTables -->
+<link href="${css}/dataTables.bootstrap.css" rel="stylesheet">
 
 <!-- Custom styles for this template -->
 <link href="${css}/myapp.css" rel="stylesheet">
@@ -63,6 +68,15 @@
 			<c:if test="${userClickAllProducts == true or userClickCategoryProducts == true }">
 				<%@include file="listProduct.jsp"%>
 			</c:if>
+			
+			
+			
+			<!-- Load only when user clicks single product -->
+			<c:if test="${userClickShowProduct == true }">
+				<%@include file="singleProduct.jsp"%>
+			</c:if>
+			
+			
 		</div>
 		<!-- Footer comes here -->
 		<%@include file="./shared/footer.jsp"%>
@@ -72,6 +86,14 @@
 		<!-- Bootstrap core JavaScript -->
 		<script src="${js}/jquery.min.js"></script>
 		<script src="${js}/bootstrap.bundle.min.js"></script>
+		
+		
+		<!-- DataTable Plugin-->
+		<script src="${js}/jquery.dataTables.js"></script>
+		
+		<!-- DataTable bootstrap js -->
+		<script src="${js}/dataTables.bootstrap.js"></script>
+		
 
 		<!-- Self coded javascript -->
 		<script src="${js}/myapp.js"></script>

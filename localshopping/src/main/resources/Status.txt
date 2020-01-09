@@ -12,3 +12,18 @@ Part 02 - 07 - Active Menu Problem COMPLETED ON 31 OCT 2019 BUT 29 OCT NEEDED.
 Part 02 - 08 - Footer Bottom Plus Change Theme COMPLETED ON 01 NOV 2019 BUT 30 OCT NEEDED.
 Part 03 - 01 - Creating DTO and DAO classes COMPLETED ON 01 NOV 2019 BUT 31 OCT NEEDED.
 Part 03 - 02 - Linking Backend Project with UI COMPLETED ON 01 NOV 2019.
+Part 03 - 03 - Updating URL Access Dynamic Page COMPLETED ON 05 NOV 2019 BUT 02 NOV NEEDED.
+Part 03 - 04 - Getting H2 Database and Hibernate Dependency COMPLETED ON 06 NOV 2019 BUT 03 NOV NEEDED.
+Part 03 - 05 - Hibernate Configuration to work with Spring & H2 Database Java Based COMPLETED ON 06 NOV 2019 BUT 04 NOV NEEDED.
+Part 03 - 06 - Creating our first @Entity class COMPLETED ON 08 NOV 2019 BUT 05 NOV NEEDED.
+Part 03 - 07 - Writing JUnit Test Case  COMPLETED ON 08 NOV 2019 BUT 06 NOV NEEDED.
+Part 03 - 08 - CRUD Operation JUnit Test Case COMPLETED ON 11 NOV 2019 BUT 07 NOV NEEDED.
+Part 03 - 08 - Continued  COMPLETED ON 11 NOV 2019 BUT 08 NOV NEEDED.
+Part 03 - 081 ERROR - Cannot create PoolableConnectionFactory (isValid() returned false) COMPLETED ON 11 NOV 2019 BUT 08 NOV NEEDED.
+Part 04 - 00 - Intro and Glimpse of Topic Covered  COMPLETED ON 11 NOV 2019 BUT 09 NOV NEEDED.
+Part 04  - 01 - Creating tables and classes for Product COMPLETED ON 11 NOV 2019 BUT 10 NOV NEEDED.
+Part 04 - 02 - Getting Product Data In Json Format Spring MVC COMPLETED ON 12 NOV 2019 BUT 11 NOV NEEDED.
+Part 04 - 03 - Using the jQuery DataTable Plugin Spring MVC COMPLETED ON 07 DEC 2019 BUT 12 NOV NEEDED.
+Part 04 - 04 - Showing JSON data in jQuery DataTable plugin using Spring MVC COMPLETED ON 11 DEC 2019 BUT 13 NOV NEEDED.
+Part 04 - 05 - Single Product Dynamic Page  COMPLETED ON 1st JAN 2020 BUT 14 NOV NEEDED.
+Part 04 - 06 - SLF4J Logging facility  COMPLETED ON 2nd JAN 2020 BUT 15 NOV NEEDED.

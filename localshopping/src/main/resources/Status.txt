@@ -27,3 +27,9 @@ Part 04 - 03 - Using the jQuery DataTable Plugin Spring MVC COMPLETED ON 07 DEC 
 Part 04 - 04 - Showing JSON data in jQuery DataTable plugin using Spring MVC COMPLETED ON 11 DEC 2019 BUT 13 NOV NEEDED.
 Part 04 - 05 - Single Product Dynamic Page  COMPLETED ON 1st JAN 2020 BUT 14 NOV NEEDED.
 Part 04 - 06 - SLF4J Logging facility  COMPLETED ON 2nd JAN 2020 BUT 15 NOV NEEDED.
+Part 04 - 07 - Custom Error Page Global Exception Handling Spring Mvc  COMPLETED ON 3 JAN 2020 BUT 16 NOV NEEDED.
+Part 04 - 08 - Fixing Bug for Zero Product Out of Stock COMPLETED ON 4 JAN 2020 BUT 17 NOV NEEDED.
+Part 05 - 00 - Intro and Glimpse   COMPLETED ON 5 JAN 2020 BUT 18 NOV NEEDED.
+Part 05 - 01 - Bootstrap Form Classes Product Management COMPLETED ON 6 JAN 2020 BUT 19 NOV NEEDED.
+Part 05 - 02 - Using Spring Form and Linking with the Model COMPLETED ON 7 JAN 2020 BUT 19 NOV NEEDED.
+Part 05 - 03 - Storing Product from Spring form to Database COMPLETED ON 8 JAN 2020 BUT 20 NOV NEEDED.

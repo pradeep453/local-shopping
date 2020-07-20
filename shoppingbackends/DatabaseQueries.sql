@@ -24,6 +24,7 @@ CREATE TABLE localshopping.product (
   PRIMARY KEY (id)
 ) ;
 
+3>
 
 CREATE TABLE localshopping.user_detail (
   id int(11) NOT NULL AUTO_INCREMENT,
@@ -36,3 +37,42 @@ CREATE TABLE localshopping.user_detail (
   contact_number varchar(15) DEFAULT NULL,
   PRIMARY KEY (id)
 );
+
+4>
+
+CREATE TABLE `localshopping`.`address` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `user_id` INT NULL,
+  `address_line_one` VARCHAR(100) NULL,
+  `address_line_two` VARCHAR(100) NULL,
+  `city` VARCHAR(20) NULL,
+  `state` VARCHAR(20) NULL,
+  `country` VARCHAR(20) NULL,
+  `postal_code` VARCHAR(10) NULL,
+  `is_billing` TINYINT(4) NULL,
+  `is_shipping` TINYINT(4) NULL,
+  PRIMARY KEY (`id`),
+  INDEX `user_id_idx` (`user_id` ASC),
+  CONSTRAINT `user_id`
+    FOREIGN KEY (`user_id`)
+    REFERENCES `localshopping`.`user_detail` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION
+    );
+    
+5>   
+    CREATE TABLE `localshopping`.`cart` (
+  `id` INT NOT NULL,
+  `user_id` INT NULL,
+  `grand_total` DECIMAL(10,2) NULL,
+  `cart_lines` INT NULL,
+  PRIMARY KEY (`id`),
+  INDEX `user_id_idx` (`user_id` ASC),
+  CONSTRAINT `user_id_cart`
+    FOREIGN KEY (`user_id`)
+    REFERENCES `localshopping`.`user_detail` (`id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION);
+    
+    
+    
